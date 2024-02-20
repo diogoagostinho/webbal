@@ -1,5 +1,6 @@
 import "dotenv/config";
 import { MongoClient, ServerApiVersion } from "mongodb";
+// eslint-disable-next-line no-undef
 const uri = `mongodb+srv://admin:${process.env.MONGODB_PASSWORD}@webbal.yrhkpgv.mongodb.net/?retryWrites=true&w=majority`;
 
 const client = new MongoClient(uri, {
