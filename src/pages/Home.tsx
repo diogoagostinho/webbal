@@ -1,5 +1,14 @@
 import { useEffect } from "react";
 import Button from "../components/Button";
+import ToolsContainer from "../components/ToolsContainer";
+import DocumentationContainer from "../components/DocumentationContainer";
+import FontsContainer from "../components/FontsContainer";
+import DesignContainer from "../components/DesignContainer";
+import HostingContainer from "../components/HostingContainer";
+import StacksContainer from "../components/StacksContainer";
+import SoftwareContainer from "../components/SoftwareContainer";
+import LearningContainer from "../components/LearningContainer";
+import Footer from "../components/Footer";
 
 function Home() {
   useEffect(() => {
@@ -7,7 +16,7 @@ function Home() {
   });
   return (
     <>
-      <div className="flex flex-col justify-center text-center pb-12 gap-4">
+      <div className="flex flex-col justify-center text-center pb-4 gap-4">
         <h1 className="text-5xl font-semibold text-green-400 dark:text-blue-700">
           Webbal
         </h1>
@@ -23,24 +32,71 @@ function Home() {
         </p>
       </div>
 
-      <div className="">
-        <input type="text" placeholder="Search anything..." />
+      <form className="max-w-md mx-auto mb-10">
+        <label
+          htmlFor="default-search"
+          className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
+        >
+          Search
+        </label>
+        <div className="relative">
+          <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">
+            <svg
+              className="w-4 h-4 text-gray-500 dark:text-gray-400"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 20 20"
+            >
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="m19 19-4-4m0-7A7 7 0 1 1 1 8a7 7 0 0 1 14 0Z"
+              />
+            </svg>
+          </div>
+          <input
+            type="search"
+            id="default-search"
+            className="block w-full p-4 ps-10 text-sm text-gray-900 border border-gray-300 rounded-lg bg-gray-50 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white"
+            placeholder="Search anything..."
+            required
+          />
+          <button
+            type="submit"
+            className="text-white absolute end-2.5 bottom-2.5 bg-emerald-400 hover:bg-emerald-500 focus:ring-4 font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-500 dark:hover:bg-blue-600"
+          >
+            Search
+          </button>
+        </div>
+      </form>
+
+      <div className="flex gap-2 justify-center flex-wrap px-40 mb-10">
+        <Button text="tools" />
+        <Button text="documentation" />
+        <Button text="fonts" />
+        <Button text="design" />
+        <Button text="hosting" />
+        <Button text="testing" />
+        <Button text="stacks" />
+        <Button text="learning" />
+        <Button text="software" />
       </div>
 
-      <div className="flex gap-2 justify-center flex-wrap ">
-        <Button text="tools" />
-        <Button text="documentation" />
-        <Button text="testing" />
-        <Button text="tools" />
-        <Button text="documentation" />
-        <Button text="testing" />
-        <Button text="tools" />
-        <Button text="documentation" />
-        <Button text="testing" />
-        <Button text="tools" />
-        <Button text="documentation" />
-        <Button text="testing" />
+      <div className="flex flex-col gap-6 justify-center px-40 mb-10">
+        <ToolsContainer />
+        <DocumentationContainer />
+        <FontsContainer />
+        <DesignContainer />
+        <HostingContainer />
+        <StacksContainer />
+        <SoftwareContainer />
+        <LearningContainer />
       </div>
+
+      <Footer />
     </>
   );
 }

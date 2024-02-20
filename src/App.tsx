@@ -12,6 +12,7 @@ import Stacks from "./pages/Stacks";
 import Learning from "./pages/Learning";
 import BadUrl from "./pages/BadUrl";
 import { useEffect, useState } from "react";
+import Software from "./pages/Software";
 
 function App() {
   const darkmodeCookie = Cookies.get("darkmode");
@@ -155,6 +156,7 @@ function App() {
               <Route path="testing" element={<Testing />} />
               <Route path="stacks" element={<Stacks />} />
               <Route path="learning" element={<Learning />} />
+              <Route path="software" element={<Software />} />
               <Route path="*" element={<BadUrl />} />
             </Routes>
           </div>
