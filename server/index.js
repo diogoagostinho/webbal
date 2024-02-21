@@ -32,14 +32,16 @@ async function run() {
 
     // Filter
     const query = { catId: 1 };
+
     // Orders and display
     const categoriesByName = {
       sort: { catId: 1 },
       projection: { _id: 0, catName: 1 },
     };
+
     // Execute
-    //const cursor = categories.find(query, options);
     const fetchAllCategories = categories.find({}, categoriesByName);
+
     for await (const doc of fetchAllCategories) {
       console.dir(doc);
     }
