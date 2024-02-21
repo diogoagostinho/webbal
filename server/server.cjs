@@ -1,7 +1,7 @@
-import express from "express";
-import mongoose from "mongoose";
-import cors from "cors";
-import CategoryModel from "./schemas/Categories.js";
+const express = require("express");
+const mongoose = require("mongoose");
+const cors = require("cors");
+const CategoryModel = require("./schemas/Categories");
 
 const app = express();
 app.use(cors());
