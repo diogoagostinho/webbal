@@ -11,7 +11,7 @@ mongoose.connect(
   "mongodb+srv://admin:UMxH4cfR4mcM9@webbal.yrhkpgv.mongodb.net/webbal"
 );
 
-app.get("/categories", (req, res) => {
+app.get("/api/categories", (req, res) => {
   CategoryModel.find()
     .then((categories) => res.json(categories))
     .catch((err) => res.json(err));

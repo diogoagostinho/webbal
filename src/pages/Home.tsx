@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import Button from "../components/Button";
 import ToolsContainer from "../components/ToolsContainer";
 import DocumentationContainer from "../components/DocumentationContainer";
@@ -9,11 +9,22 @@ import StacksContainer from "../components/StacksContainer";
 import SoftwareContainer from "../components/SoftwareContainer";
 import LearningContainer from "../components/LearningContainer";
 import Footer from "../components/Footer";
+import axios from "axios";
 
 function Home() {
   useEffect(() => {
     document.title = "Webbal";
   });
+
+  const [categories, setCategories] = useState([]);
+
+  useEffect(() => {
+    axios
+      .get("http://localhost:5000/api/categories")
+      .then((categories) => setCategories(categories.data))
+      .catch((err) => console.log(err));
+  }, []);
+
   return (
     <>
       <div className="flex flex-col justify-center text-center pb-4 gap-4">
@@ -74,7 +85,7 @@ function Home() {
       </form>
 
       <div className="flex gap-2 justify-center flex-wrap px-40 mb-10">
-        <Button text="tools" />
+        {/*<Button text="tools" />
         <Button text="documentation" />
         <Button text="fonts" />
         <Button text="design" />
@@ -82,7 +93,10 @@ function Home() {
         <Button text="testing" />
         <Button text="stacks" />
         <Button text="learning" />
-        <Button text="software" />
+        <Button text="software" />*/}
+        {categories.map((cat) => {
+          <Button text={cat.catName} />;
+        })}
       </div>
 
       <div className="flex flex-col gap-6 justify-center px-40 mb-10">
