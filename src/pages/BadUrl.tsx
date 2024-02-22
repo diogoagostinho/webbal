@@ -1,7 +1,9 @@
 function BadUrl() {
   return (
     <>
-      <h1>BadUrl</h1>
+      <div className="w-screen h-screen">
+        <h1 className="text-5xl">404</h1>
+      </div>
     </>
   );
 }

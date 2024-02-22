@@ -36,7 +36,7 @@ function App() {
   return (
     <>
       <div className={isDark ? "dark" : ""}>
-        <div className="bg-neutral-100 dark:bg-neutral-900 font-display h-full">
+        <div className="bg-neutral-100 dark:bg-neutral-900 font-display h-full overflow-x-hidden">
           <div
             id="navbar"
             className="flex justify-between align-middle px-6 py-6"
