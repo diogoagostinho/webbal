@@ -1,0 +1,1117 @@
+[
+  {
+    "_id": {
+      "$oid": "65d48c128da65e3bf2a53ee2"
+    },
+    "itemName": "HTML CheatSheet",
+    "itemCat": 1,
+    "itemSubcat": 1,
+    "itemDesc": "All-in-one collection of HTML, CSS and JavaScript rules, elements, attributes, etc...",
+    "itemLink": "https://htmlcheatsheet.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48c858da65e3bf2a53ee3"
+    },
+    "itemName": "web code tools",
+    "itemCat": 1,
+    "itemSubcat": 2,
+    "itemDesc": "Multiple generators for data, design, animation, SEO and more",
+    "itemLink": "https://webcode.tools/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48ccc8da65e3bf2a53ee7"
+    },
+    "itemName": "gitignore.io",
+    "itemCat": 1,
+    "itemSubcat": 2,
+    "itemDesc": "Generate a .gitignore based on the app you are developing",
+    "itemLink": "https://www.toptal.com/developers/gitignore"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d008da65e3bf2a53ee8"
+    },
+    "itemName": "extract.pics",
+    "itemCat": 1,
+    "itemSubcat": 4,
+    "itemDesc": "Extract all image files from any website",
+    "itemLink": "https://extract.pics/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d188da65e3bf2a53ee9"
+    },
+    "itemName": "Real Favicon Generator",
+    "itemCat": 1,
+    "itemSubcat": 2,
+    "itemDesc": "Generate a Favicon icon for your website/app",
+    "itemLink": "https://realfavicongenerator.net/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d338da65e3bf2a53eea"
+    },
+    "itemName": "Octopus",
+    "itemCat": 1,
+    "itemSubcat": 3,
+    "itemDesc": "A sitemap builder for planning your website structure",
+    "itemLink": "https://octopus.do/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d488da65e3bf2a53eeb"
+    },
+    "itemName": "dbdiagram",
+    "itemCat": 1,
+    "itemSubcat": 3,
+    "itemDesc": "Draw ER diagrams with realtime code generation",
+    "itemLink": "https://dbdiagram.io/home"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d578da65e3bf2a53eec"
+    },
+    "itemName": "DrawSQL App",
+    "itemCat": 1,
+    "itemSubcat": 3,
+    "itemDesc": "Modern ER diagram draw tool with exports for MySQL, PostgreSQL and SQL Server",
+    "itemLink": "https://drawsql.app/diagrams"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d648da65e3bf2a53eed"
+    },
+    "itemName": "carbon",
+    "itemCat": 1,
+    "itemSubcat": 4,
+    "itemDesc": "Create images of your source code",
+    "itemLink": "https://carbon.now.sh/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d778da65e3bf2a53eee"
+    },
+    "itemName": "Screen Guru",
+    "itemCat": 1,
+    "itemSubcat": 4,
+    "itemDesc": "Take a full-page screenshot of your project",
+    "itemLink": "https://screen.guru/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d848da65e3bf2a53eef"
+    },
+    "itemName": "Pretty Snap",
+    "itemCat": 1,
+    "itemSubcat": 4,
+    "itemDesc": "Add backgrounds to your screenshots",
+    "itemLink": "https://prettysnap.app/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d8f8da65e3bf2a53ef0"
+    },
+    "itemName": "CodeImg",
+    "itemCat": 1,
+    "itemSubcat": 4,
+    "itemDesc": "Generate an image of your code (alternative to carbon), with multiple export settings",
+    "itemLink": "https://codeimg.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d48d9f8da65e3bf2a53ef1"
+    },
+    "itemName": "readme.so",
+    "itemCat": 1,
+    "itemSubcat": 2,
+    "itemDesc": "Generate a README file easily with realtime live view",
+    "itemLink": "https://readme.so/"
+  },
+  {
+    "_id": {
+      "$oid": "65d491598da65e3bf2a53ef2"
+    },
+    "itemName": "MDN Webdocs",
+    "itemCat": 2,
+    "itemSubcat": 5,
+    "itemDesc": "Web technologies documentation with a modern design",
+    "itemLink": "https://developer.mozilla.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d491d18da65e3bf2a53ef3"
+    },
+    "itemName": "DEVHINTS",
+    "itemCat": 2,
+    "itemSubcat": 6,
+    "itemDesc": "Hints and tips for developing web apps",
+    "itemLink": "https://devhints.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4920f8da65e3bf2a53ef4"
+    },
+    "itemName": "Git Sheet",
+    "itemCat": 2,
+    "itemSubcat": 6,
+    "itemDesc": "Git commands cheat sheet",
+    "itemLink": "https://education.github.com/git-cheat-sheet-education.pdf"
+  },
+  {
+    "_id": {
+      "$oid": "65d492348da65e3bf2a53ef5"
+    },
+    "itemName": "React Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "ReactJS documentation",
+    "itemLink": "https://react.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d492768da65e3bf2a53ef6"
+    },
+    "itemName": "NextJS Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "NextJS documentation",
+    "itemLink": "https://nextjs.org/docs"
+  },
+  {
+    "_id": {
+      "$oid": "65d492ab8da65e3bf2a53ef7"
+    },
+    "itemName": "TypeScript Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "TypeScript documentation",
+    "itemLink": "https://www.typescriptlang.org/docs/"
+  },
+  {
+    "_id": {
+      "$oid": "65d492cc8da65e3bf2a53ef8"
+    },
+    "itemName": "Tailwind CSS Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "Tailwind documentation",
+    "itemLink": "https://tailwindcss.com/docs/"
+  },
+  {
+    "_id": {
+      "$oid": "65d493018da65e3bf2a53ef9"
+    },
+    "itemName": "BEM Naming Cheatsheet",
+    "itemCat": 2,
+    "itemSubcat": 6,
+    "itemDesc": "Cheatsheet to help name your CSS classes",
+    "itemLink": "https://bem-cheat-sheet.9elements.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d493418da65e3bf2a53efa"
+    },
+    "itemName": "CSS Reference",
+    "itemCat": 2,
+    "itemSubcat": 6,
+    "itemDesc": "A complete sheet of all css classes and their functionality",
+    "itemLink": "https://cssreference.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4937c8da65e3bf2a53efb"
+    },
+    "itemName": "Vite Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "Documentation for building web apps with Vite",
+    "itemLink": "https://vitejs.dev/guide/"
+  },
+  {
+    "_id": {
+      "$oid": "65d493ab8da65e3bf2a53efc"
+    },
+    "itemName": "C# Docs",
+    "itemCat": 2,
+    "itemSubcat": 7,
+    "itemDesc": "C# documentation",
+    "itemLink": "https://learn.microsoft.com/en-us/dotnet/csharp/"
+  },
+  {
+    "_id": {
+      "$oid": "65d493d68da65e3bf2a53efd"
+    },
+    "itemName": "DevDocs",
+    "itemCat": 2,
+    "itemSubcat": 5,
+    "itemDesc": "A complete and simple documentation of all APIs from a huge list of frameworks, libraries, packages, tools, databases, code languages and much more",
+    "itemLink": "https://devdocs.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d495138da65e3bf2a53eff"
+    },
+    "itemName": "Google Fonts",
+    "itemCat": 3,
+    "itemSubcat": 8,
+    "itemDesc": "More than 1600 diferent fonts to choose from",
+    "itemLink": "https://fonts.google.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d495418da65e3bf2a53f00"
+    },
+    "itemName": "Fontsss",
+    "itemCat": 3,
+    "itemSubcat": 8,
+    "itemDesc": "A selection of modern and appealing fonts to use",
+    "itemLink": "https://fontsss.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d495838da65e3bf2a53f01"
+    },
+    "itemName": "Fontshare",
+    "itemCat": 3,
+    "itemSubcat": 8,
+    "itemDesc": "A collection of high quality fonts for your website",
+    "itemLink": "https://www.fontshare.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d495da8da65e3bf2a53f03"
+    },
+    "itemName": "UIVERSE",
+    "itemCat": 4,
+    "itemSubcat": 9,
+    "itemDesc": "UI open-source components for your website",
+    "itemLink": "https://uiverse.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d496258da65e3bf2a53f04"
+    },
+    "itemName": "fffuel",
+    "itemCat": 4,
+    "itemSubcat": 10,
+    "itemDesc": "Collection of multiple design patterns to use (with customizable tools)",
+    "itemLink": "https://fffuel.co/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4966c8da65e3bf2a53f05"
+    },
+    "itemName": "Coolors",
+    "itemCat": 4,
+    "itemSubcat": 13,
+    "itemDesc": "Help you find the best matching colors and themes for your website",
+    "itemLink": "https://coolors.co/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4969e8da65e3bf2a53f06"
+    },
+    "itemName": "BGJar",
+    "itemCat": 4,
+    "itemSubcat": 10,
+    "itemDesc": "Multiple background patterns generator",
+    "itemLink": "https://bgjar.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d496d18da65e3bf2a53f07"
+    },
+    "itemName": "SVG Shape Generator",
+    "itemCat": 4,
+    "itemSubcat": 12,
+    "itemDesc": "Generate custom SVG shapes",
+    "itemLink": "https://www.softr.io/tools/svg-shape-generator"
+  },
+  {
+    "_id": {
+      "$oid": "65d4970b8da65e3bf2a53f08"
+    },
+    "itemName": "PatternPad",
+    "itemCat": 4,
+    "itemSubcat": 10,
+    "itemDesc": "Select a background pattern, and change it's color scheme as you like",
+    "itemLink": "https://patternpad.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d497448da65e3bf2a53f09"
+    },
+    "itemName": "VISIWIG",
+    "itemCat": 4,
+    "itemSubcat": 10,
+    "itemDesc": "SVG Patterns",
+    "itemLink": "https://www.visiwig.com/patterns/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4976c8da65e3bf2a53f0a"
+    },
+    "itemName": "Get Waves",
+    "itemCat": 4,
+    "itemSubcat": 12,
+    "itemDesc": "Generate waves for your website",
+    "itemLink": "https://getwaves.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d497b08da65e3bf2a53f0b"
+    },
+    "itemName": "Warp SVG",
+    "itemCat": 4,
+    "itemSubcat": 12,
+    "itemDesc": "Load an SVG and warp it",
+    "itemLink": "https://pavellaptev.github.io/warp-svg/"
+  },
+  {
+    "_id": {
+      "$oid": "65d497d88da65e3bf2a53f0c"
+    },
+    "itemName": "The Good Line-Height",
+    "itemCat": 1,
+    "itemSubcat": 1,
+    "itemDesc": "Find the perfect line height for your text",
+    "itemLink": "https://www.thegoodlineheight.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4983c8da65e3bf2a53f0d"
+    },
+    "itemName": "3D Transform CSS",
+    "itemCat": 1,
+    "itemSubcat": 2,
+    "itemDesc": "Create a 3D CSS container with code generation",
+    "itemLink": "https://polypane.app/css-3d-transform-examples/"
+  },
+  {
+    "_id": {
+      "$oid": "65d498958da65e3bf2a53f0e"
+    },
+    "itemName": "LogoFast",
+    "itemCat": 4,
+    "itemSubcat": 12,
+    "itemDesc": "Quickly create a custom logo",
+    "itemLink": "https://shipfa.st/tools/logo-fast"
+  },
+  {
+    "_id": {
+      "$oid": "65d498c78da65e3bf2a53f0f"
+    },
+    "itemName": "SimpleIcons",
+    "itemCat": 4,
+    "itemSubcat": 11,
+    "itemDesc": "Get any icon in SVG code with it's background color and text color scheme",
+    "itemLink": "https://simpleicons.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4990d8da65e3bf2a53f10"
+    },
+    "itemName": "HeroIcons",
+    "itemCat": 4,
+    "itemSubcat": 11,
+    "itemDesc": "Get icons for your website",
+    "itemLink": "https://heroicons.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d499448da65e3bf2a53f11"
+    },
+    "itemName": "HeroPatterns",
+    "itemCat": 4,
+    "itemSubcat": 10,
+    "itemDesc": "Get patterns for your website",
+    "itemLink": "https://heropatterns.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4997c8da65e3bf2a53f12"
+    },
+    "itemName": "Vercel",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Deploy your web apps to Vercel platform's",
+    "itemLink": "https://vercel.com/dashboard"
+  },
+  {
+    "_id": {
+      "$oid": "65d49a118da65e3bf2a53f13"
+    },
+    "itemName": "Firebase",
+    "itemCat": 7,
+    "itemSubcat": 19,
+    "itemDesc": "Realtime database, backend as a service, cloud platform",
+    "itemLink": "https://console.firebase.google.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49a678da65e3bf2a53f14"
+    },
+    "itemName": "Netlify",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Netlify is a platform for deploying your web apps easily",
+    "itemLink": "https://app.netlify.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49ab08da65e3bf2a53f15"
+    },
+    "itemName": "000webhost",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Web hosting with database and cPanel",
+    "itemLink": "https://panel.000webhost.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49ae58da65e3bf2a53f16"
+    },
+    "itemName": "Amazon AWS",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Amazon Web Services, with multiple tools for building and deploying your fullstack project",
+    "itemLink": "https://aws.amazon.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49b248da65e3bf2a53f17"
+    },
+    "itemName": "Render",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Website deployment platform with backend hosting",
+    "itemLink": "https://render.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49b558da65e3bf2a53f18"
+    },
+    "itemName": "webapp",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Fullstack website hosting, with modern simple interface",
+    "itemLink": "https://webapp.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d49b848da65e3bf2a53f19"
+    },
+    "itemName": "Tiiny Host",
+    "itemCat": 5,
+    "itemSubcat": 14,
+    "itemDesc": "Host and share your small website to the web in a few minutes",
+    "itemLink": "https://tiiny.host/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b0208da65e3bf2a53f1a"
+    },
+    "itemName": "CodePen",
+    "itemCat": 6,
+    "itemSubcat": 15,
+    "itemDesc": "A platform for coding smaller content with live previewer, you can share your code with the web",
+    "itemLink": "https://codepen.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b0dc8da65e3bf2a53f1b"
+    },
+    "itemName": "Markdown Live Preview",
+    "itemCat": 6,
+    "itemSubcat": 15,
+    "itemDesc": "As the name says, a live preview editor of Markdown Language",
+    "itemLink": "https://markdownlivepreview.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b11b8da65e3bf2a53f1c"
+    },
+    "itemName": "npm",
+    "itemCat": 7,
+    "itemSubcat": 16,
+    "itemDesc": "NodeJs package manager",
+    "itemLink": "https://www.npmjs.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b1758da65e3bf2a53f1d"
+    },
+    "itemName": "nvm",
+    "itemCat": 7,
+    "itemSubcat": 20,
+    "itemDesc": "Node Version Manager, manage and use the versions of node you want",
+    "itemLink": "https://github.com/coreybutler/nvm-windows#readme"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b1df8da65e3bf2a53f1e"
+    },
+    "itemName": "Yarn",
+    "itemCat": 7,
+    "itemSubcat": 16,
+    "itemDesc": "A package manager that works with parallel installations",
+    "itemLink": "https://yarnpkg.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b5148da65e3bf2a53f1f"
+    },
+    "itemName": "Bun",
+    "itemCat": 7,
+    "itemSubcat": 16,
+    "itemDesc": "The fastest package manager",
+    "itemLink": "https://bun.sh/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b6668da65e3bf2a53f20"
+    },
+    "itemName": "NextJS",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "ReactJS front-end framework with server-side rendering",
+    "itemLink": "https://nextjs.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b6b58da65e3bf2a53f21"
+    },
+    "itemName": "React",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Frontend framework for building JavaScript through user interfaces",
+    "itemLink": "https://react.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b70c8da65e3bf2a53f22"
+    },
+    "itemName": "Bootstrap",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Bootstrap is a frontend framework for developing a responsive design for websites",
+    "itemLink": "https://getbootstrap.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b7b68da65e3bf2a53f24"
+    },
+    "itemName": "Remix",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Fullstack framework with server-side rendering built on React",
+    "itemLink": "https://remix.run/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b9168da65e3bf2a53f25"
+    },
+    "itemName": "Gatsby",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "React and GraphQL website generator with more than 2500 plugins",
+    "itemLink": "https://www.gatsbyjs.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4b9478da65e3bf2a53f26"
+    },
+    "itemName": "Astro",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Framework for building web apps focused on performance",
+    "itemLink": "https://astro.build/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4ba368da65e3bf2a53f27"
+    },
+    "itemName": "MochaJS",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Asynchronous testing framework that runs on NodeJS and the browser",
+    "itemLink": "https://mochajs.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4ba7d8da65e3bf2a53f28"
+    },
+    "itemName": "Meteor",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Build web, mobile and desktop apps for any device",
+    "itemLink": "https://www.meteor.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bada8da65e3bf2a53f29"
+    },
+    "itemName": "ExpressJS",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Manage NodeJS through servers and routes",
+    "itemLink": "https://expressjs.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bc8a8da65e3bf2a53f2b"
+    },
+    "itemName": "Supabase",
+    "itemCat": 7,
+    "itemSubcat": 19,
+    "itemDesc": "Firebase alternative with multiple functions",
+    "itemLink": "https://supabase.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bd248da65e3bf2a53f2c"
+    },
+    "itemName": "Expo",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Simplify React Native development and build your app to mobile and web",
+    "itemLink": "https://expo.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bdc48da65e3bf2a53f2d"
+    },
+    "itemName": "React Native",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Build React apps for every device",
+    "itemLink": "https://reactnative.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bdfd8da65e3bf2a53f2e"
+    },
+    "itemName": "Electron",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "Build cross-platform React apps for desktop devices",
+    "itemLink": "https://www.electronjs.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4be4b8da65e3bf2a53f2f"
+    },
+    "itemName": "Simple Parallax",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Create simple parallax animations",
+    "itemLink": "https://simpleparallax.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4be7a8da65e3bf2a53f30"
+    },
+    "itemName": "Image Compare Viewer",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Easy and simple image comparison element",
+    "itemLink": "https://image-compare-viewer.netlify.app/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bec28da65e3bf2a53f31"
+    },
+    "itemName": "Notyf",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Notifications for your web app",
+    "itemLink": "https://carlosroso.com/notyf/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bee98da65e3bf2a53f32"
+    },
+    "itemName": "React Toastify",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Customizable toast notifications",
+    "itemLink": "https://fkhadra.github.io/react-toastify/introduction/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bf5b8da65e3bf2a53f33"
+    },
+    "itemName": "Chakra UI",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Simple component library with modern and simple design",
+    "itemLink": "https://chakra-ui.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bf9b8da65e3bf2a53f34"
+    },
+    "itemName": "Bideo.js",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Full-page video library",
+    "itemLink": "https://rishabhp.github.io/bideo.js/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4bfbb8da65e3bf2a53f35"
+    },
+    "itemName": "Three.js",
+    "itemCat": 7,
+    "itemSubcat": 17,
+    "itemDesc": "A complete framework to work with WebGL 3D graphics",
+    "itemLink": "https://threejs.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c00f8da65e3bf2a53f36"
+    },
+    "itemName": "Anime.js",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "A lightweight animation based library with a powerful API",
+    "itemLink": "https://animejs.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c0588da65e3bf2a53f37"
+    },
+    "itemName": "jQuery",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Easy Ajax realtime API",
+    "itemLink": "https://jquery.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c0938da65e3bf2a53f38"
+    },
+    "itemName": "Socket.IO",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "A library that uses WebSocket to establish connections between servers and clients",
+    "itemLink": "https://socket.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c0f48da65e3bf2a53f39"
+    },
+    "itemName": "Tailwind CSS",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Build modern websites with pre-made classes for your HTML",
+    "itemLink": "https://tailwindcss.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c1548da65e3bf2a53f3a"
+    },
+    "itemName": "Sass",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "CSS with more features",
+    "itemLink": "https://sass-lang.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c1938da65e3bf2a53f3b"
+    },
+    "itemName": "Stytch",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Powerful authentication library",
+    "itemLink": "https://stytch.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c1df8da65e3bf2a53f3c"
+    },
+    "itemName": "Auth0",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Largest security and authentication library",
+    "itemLink": "https://auth0.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c2198da65e3bf2a53f3d"
+    },
+    "itemName": "React Awesome Reveal",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Library for reveal animations within React",
+    "itemLink": "https://react-awesome-reveal.morello.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c2428da65e3bf2a53f3e"
+    },
+    "itemName": "react-spring",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "Animations for user interaction",
+    "itemLink": "https://www.react-spring.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c27f8da65e3bf2a53f3f"
+    },
+    "itemName": "PrimeReact",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "UI components for react with a very simplistic and professional look",
+    "itemLink": "https://primereact.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c2c88da65e3bf2a53f40"
+    },
+    "itemName": "NextUI",
+    "itemCat": 7,
+    "itemSubcat": 18,
+    "itemDesc": "The most complete and modern library of UI components for the web, built on top of Tailwind",
+    "itemLink": "https://nextui.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c35b8da65e3bf2a53f41"
+    },
+    "itemName": "MySQL",
+    "itemCat": 7,
+    "itemSubcat": 19,
+    "itemDesc": "Database focused on simple read content",
+    "itemLink": "https://www.mysql.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c3ae8da65e3bf2a53f42"
+    },
+    "itemName": "PostgreSQL",
+    "itemCat": 7,
+    "itemSubcat": 19,
+    "itemDesc": "Database for larger read-write complex queries",
+    "itemLink": "https://www.postgresql.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c40c8da65e3bf2a53f43"
+    },
+    "itemName": "MongoDB",
+    "itemCat": 7,
+    "itemSubcat": 19,
+    "itemDesc": "NoSQL database similar to JSON through data schemas",
+    "itemLink": "https://www.mongodb.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c4af8da65e3bf2a53f45"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "65d4c4e98da65e3bf2a53f46"
+    },
+    "itemName": "NodeJS",
+    "itemCat": 7,
+    "itemSubcat": 20,
+    "itemDesc": "A Runtime Enviroment for JavaScript, with multiple packages to help you build web apps",
+    "itemLink": "https://nodejs.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c5498da65e3bf2a53f47"
+    },
+    "itemName": "Deno",
+    "itemCat": 7,
+    "itemSubcat": 20,
+    "itemDesc": "Next-gen JavaScript runtime developed by the same person who made NodeJS",
+    "itemLink": "https://deno.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c5c48da65e3bf2a53f48"
+    },
+    "itemName": "Docker",
+    "itemCat": 7,
+    "itemSubcat": 20,
+    "itemDesc": "Create, manage and deliver containers through virtual systems with software, libraries and other configurations",
+    "itemLink": "https://hub.docker.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c6458da65e3bf2a53f49"
+    },
+    "itemName": "Kubernetes",
+    "itemCat": 7,
+    "itemSubcat": 20,
+    "itemDesc": "A system to deploy, scale and manage apps through containers",
+    "itemLink": "https://kubernetes.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c6ab8da65e3bf2a53f4a"
+    },
+    "itemName": "Vite",
+    "itemCat": 7,
+    "itemSubcat": 21,
+    "itemDesc": "Vite is a tool made for developing web apps quickly through install templates",
+    "itemLink": "https://vitejs.dev/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c7958da65e3bf2a53f4c"
+    },
+    "itemName": "webpack",
+    "itemCat": 7,
+    "itemSubcat": 21,
+    "itemDesc": "Pack all your modules into static assets to save space and size",
+    "itemLink": "https://webpack.js.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c7a58da65e3bf2a53f4d"
+    },
+    "itemName": "Babel",
+    "itemCat": 7,
+    "itemSubcat": 21,
+    "itemDesc": "JavaScript converter to read next-gen JavaScript into the browser",
+    "itemLink": "https://babeljs.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c7cf8da65e3bf2a53f4e"
+    },
+    "itemName": "Cloudinary",
+    "itemCat": 7,
+    "itemSubcat": 22,
+    "itemDesc": "Upload images and videos from a server to the browser",
+    "itemLink": "https://cloudinary.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c8358da65e3bf2a53f50"
+    },
+    "itemName": "freeCodeCamp",
+    "itemCat": 8,
+    "itemSubcat": 23,
+    "itemDesc": "Learn to code and get certifications",
+    "itemLink": "https://www.freecodecamp.org/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c8678da65e3bf2a53f51"
+    },
+    "itemName": "Codecademy",
+    "itemCat": 8,
+    "itemSubcat": 23,
+    "itemDesc": "A good catalog of lessons",
+    "itemLink": "https://www.codecademy.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c8ae8da65e3bf2a53f52"
+    },
+    "itemName": "Fireship",
+    "itemCat": 8,
+    "itemSubcat": 23,
+    "itemDesc": "Quick lessons on multiple web development subjects, with full courses as well",
+    "itemLink": "https://fireship.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c91b8da65e3bf2a53f53"
+    },
+    "itemName": "Insomnia",
+    "itemCat": 9,
+    "itemSubcat": 25,
+    "itemDesc": "REST client for testing API",
+    "itemLink": "https://insomnia.rest/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c97e8da65e3bf2a53f54"
+    },
+    "itemName": "Postman",
+    "itemCat": 9,
+    "itemSubcat": 25,
+    "itemDesc": "A more complete and complex alternative to Insomnia",
+    "itemLink": "https://www.postman.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c9a78da65e3bf2a53f55"
+    },
+    "itemName": "MySQL Workbench",
+    "itemCat": 9,
+    "itemSubcat": 24,
+    "itemDesc": "GUI for MySQL databases",
+    "itemLink": "https://www.mysql.com/products/workbench/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4c9ed8da65e3bf2a53f56"
+    },
+    "itemName": "DBeaver",
+    "itemCat": 9,
+    "itemSubcat": 24,
+    "itemDesc": "Universal GUI for multiple databases",
+    "itemLink": "https://dbeaver.io/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4ca178da65e3bf2a53f57"
+    },
+    "itemName": "MongoDB Compass",
+    "itemCat": 9,
+    "itemSubcat": 24,
+    "itemDesc": "MongoDB GUI tool",
+    "itemLink": "https://www.mongodb.com/products/tools/compass"
+  },
+  {
+    "_id": {
+      "$oid": "65d4ca3d8da65e3bf2a53f58"
+    },
+    "itemName": "Tabby",
+    "itemCat": 9,
+    "itemSubcat": 26,
+    "itemDesc": "Modern terminal",
+    "itemLink": "https://tabby.sh/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4ca848da65e3bf2a53f59"
+    },
+    "itemName": "Hyper",
+    "itemCat": 9,
+    "itemSubcat": 26,
+    "itemDesc": "Simple terminal",
+    "itemLink": "https://hyper.is/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4cad88da65e3bf2a53f5b"
+    },
+    "itemName": "Figma",
+    "itemCat": 9,
+    "itemSubcat": 27,
+    "itemDesc": "Software tool for designing web pages with teams or solo",
+    "itemLink": "https://www.figma.com/"
+  },
+  {
+    "_id": {
+      "$oid": "65d4cb0d8da65e3bf2a53f5c"
+    },
+    "itemName": "Fontbase",
+    "itemCat": 9,
+    "itemSubcat": 27,
+    "itemDesc": "Software for managing your favourite fonts",
+    "itemLink": "https://fontba.se/"
+  }
+]

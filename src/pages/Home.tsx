@@ -1,30 +1,13 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import Button from "../components/Button";
-import ToolsContainer from "../components/ToolsContainer";
-import DocumentationContainer from "../components/DocumentationContainer";
-import FontsContainer from "../components/FontsContainer";
-import DesignContainer from "../components/DesignContainer";
-import HostingContainer from "../components/HostingContainer";
-import StacksContainer from "../components/StacksContainer";
-import SoftwareContainer from "../components/SoftwareContainer";
-import LearningContainer from "../components/LearningContainer";
 import Footer from "../components/Footer";
-import axios from "axios";
+import categories from "../assets/categories.json";
+import HomeMainContainer from "../components/HomeMainContainer";
 
 function Home() {
   useEffect(() => {
     document.title = "Webbal";
   });
-
-  const [categories, setCategories] = useState([]);
-
-  useEffect(() => {
-    axios
-      .get("http://localhost:5000/api/categories")
-      .then((categories) => setCategories(categories.data))
-      .catch((err) => console.log(err));
-  }, []);
-
   return (
     <>
       <div className="flex flex-col justify-center text-center pb-4 gap-4">
@@ -85,29 +68,17 @@ function Home() {
       </form>
 
       <div className="flex gap-2 justify-center flex-wrap px-40 mb-10">
-        {/*<Button text="tools" />
-        <Button text="documentation" />
-        <Button text="fonts" />
-        <Button text="design" />
-        <Button text="hosting" />
-        <Button text="testing" />
-        <Button text="stacks" />
-        <Button text="learning" />
-        <Button text="software" />*/}
-        {categories.map((cat) => {
-          <Button text={cat.catName} />;
-        })}
+        {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
+        {categories.map((cat: any) => (
+          <Button key={cat.catId} text={cat.catName} />
+        ))}
       </div>
 
       <div className="flex flex-col gap-6 justify-center px-40 mb-10">
-        <ToolsContainer />
-        <DocumentationContainer />
-        <FontsContainer />
-        <DesignContainer />
-        <HostingContainer />
-        <StacksContainer />
-        <SoftwareContainer />
-        <LearningContainer />
+        {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
+        {categories.map((cat: any) => (
+          <HomeMainContainer catId={cat.catId} catName={cat.catName} />
+        ))}
       </div>
 
       <Footer />

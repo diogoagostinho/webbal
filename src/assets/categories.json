@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "65d47d538da65e3bf2a53eb4"
+  },
+  "catId": 1,
+  "catName": "tools",
+  "catDesc": "Online tools to help you make web development easier and faster"
+},
+{
+  "_id": {
+    "$oid": "65d47d818da65e3bf2a53eb5"
+  },
+  "catId": 2,
+  "catName": "documentation",
+  "catDesc": "Multiple documentation and helpers on various languages and practices"
+},
+{
+  "_id": {
+    "$oid": "65d47dbe8da65e3bf2a53eb6"
+  },
+  "catId": 3,
+  "catName": "fonts",
+  "catDesc": "Find the perfect typography for your project"
+},
+{
+  "_id": {
+    "$oid": "65d47dc88da65e3bf2a53eb7"
+  },
+  "catId": 4,
+  "catName": "design",
+  "catDesc": "Get placeholders, patterns, icons and inspiration to build the most appealing UI/UX design possible"
+},
+{
+  "_id": {
+    "$oid": "65d47dda8da65e3bf2a53eb8"
+  },
+  "catId": 5,
+  "catName": "hosting",
+  "catDesc": "All the recommended options for free and paid database, backend and frontend hosting"
+},
+{
+  "_id": {
+    "$oid": "65d47ded8da65e3bf2a53eb9"
+  },
+  "catId": 6,
+  "catName": "testing",
+  "catDesc": "The perfect tools for testing your ideas, a sandbox for your next project"
+},
+{
+  "_id": {
+    "$oid": "65d47dfb8da65e3bf2a53eba"
+  },
+  "catId": 7,
+  "catName": "stacks",
+  "catDesc": "Have you decided which stack to go with your next project?"
+},
+{
+  "_id": {
+    "$oid": "65d47e0d8da65e3bf2a53ebb"
+  },
+  "catId": 8,
+  "catName": "learning",
+  "catDesc": "Recommended websites for learning web development for free"
+},
+{
+  "_id": {
+    "$oid": "65d47e238da65e3bf2a53ebc"
+  },
+  "catId": 9,
+  "catName": "software",
+  "catDesc": "Software tools to help you develop and build your web application"
+}]

@@ -2,17 +2,9 @@ import { Routes, Route, BrowserRouter, Link } from "react-router-dom";
 import Cookies from "js-cookie";
 
 import Home from "./pages/Home";
-import Tools from "./pages/Tools";
-import Documentation from "./pages/Documentation";
-import Fonts from "./pages/Fonts";
-import Design from "./pages/Design";
-import Hosting from "./pages/Hosting";
-import Testing from "./pages/Testing";
-import Stacks from "./pages/Stacks";
-import Learning from "./pages/Learning";
+import CategoryPage from "./pages/CategoryPage";
 import BadUrl from "./pages/BadUrl";
 import { useEffect, useState } from "react";
-import Software from "./pages/Software";
 
 function App() {
   const darkmodeCookie = Cookies.get("darkmode");
@@ -148,15 +140,7 @@ function App() {
 
             <Routes>
               <Route index element={<Home />} />
-              <Route path="tools" element={<Tools />} />
-              <Route path="documentation" element={<Documentation />} />
-              <Route path="fonts" element={<Fonts />} />
-              <Route path="design" element={<Design />} />
-              <Route path="hosting" element={<Hosting />} />
-              <Route path="testing" element={<Testing />} />
-              <Route path="stacks" element={<Stacks />} />
-              <Route path="learning" element={<Learning />} />
-              <Route path="software" element={<Software />} />
+              <Route path="/:category" element={<CategoryPage />} />
               <Route path="*" element={<BadUrl />} />
             </Routes>
           </div>
