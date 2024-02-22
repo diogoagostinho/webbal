@@ -67,17 +67,21 @@ function Home() {
         </div>
       </form>
 
-      <div className="flex gap-2 justify-center flex-wrap px-40 mb-10">
+      <div className="flex gap-2 justify-center  flex-wrap px-40 mb-10">
         {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
         {categories.map((cat: any) => (
           <Button key={cat.catId} text={cat.catName} />
         ))}
       </div>
 
-      <div className="flex flex-col gap-6 justify-center px-40 mb-10">
+      <div className="flex flex-col gap-10 flex-wrap justify-center px-40 mb-10">
         {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
         {categories.map((cat: any) => (
-          <HomeMainContainer catId={cat.catId} catName={cat.catName} />
+          <HomeMainContainer
+            key={cat.catId}
+            catId={cat.catId}
+            catName={cat.catName}
+          />
         ))}
       </div>
 
