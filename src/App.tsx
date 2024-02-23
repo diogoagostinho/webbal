@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import CategoryPage from "./pages/CategoryPage";
 import BadUrl from "./pages/BadUrl";
 import { useEffect, useState } from "react";
+import Search from "./pages/Search";
 
 function App() {
   const darkmodeCookie = Cookies.get("darkmode");
@@ -36,7 +37,7 @@ function App() {
   return (
     <>
       <div className={isDark ? "dark" : ""}>
-        <div className="bg-neutral-100 dark:bg-neutral-900 font-display h-full overflow-x-hidden">
+        <div className="bg-neutral-100 dark:bg-neutral-900 font-display h-full overflow-x-hidden bg-cover">
           <div
             id="navbar"
             className="flex justify-between align-middle px-6 py-6"
@@ -138,6 +139,7 @@ function App() {
 
           <Routes>
             <Route index element={<Home />} />
+            <Route path="/search/:s" element={<Search />} />
             <Route path="/:category" element={<CategoryPage />} />
             <Route path="*" element={<BadUrl />} />
           </Routes>
