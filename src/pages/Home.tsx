@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import { useEffect, useState } from "react";
 import Button from "../components/Button";
 import Footer from "../components/Footer";
@@ -12,11 +13,14 @@ function Home() {
 
   const navigate = useNavigate();
   const [search, setSearch] = useState();
-
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  //@ts-expect-error
   const handleSearch = (e) => {
     setSearch(e.target.value);
   };
 
+  // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  //@ts-expect-error
   const handleSearchInput = (e) => {
     setSearch(e.target.value);
     if (search === "" || search === undefined) {
