@@ -15,17 +15,24 @@ function Home() {
 
   const handleSearch = (e) => {
     setSearch(e.target.value);
-    console.log(e.target.value);
   };
 
   const handleSearchInput = (e) => {
     setSearch(e.target.value);
-    if (e.key === "Enter") {
-      navigate("/search/" + search);
+    if (search === "" || search === undefined) {
+      console.log("search undefined");
+    } else {
+      if (e.key === "Enter") {
+        navigate("/search/" + search);
+      }
     }
   };
   const handleSearchInputButton = () => {
-    navigate("/search/" + search);
+    if (search === "" || search === undefined) {
+      console.log("search undefined");
+    } else {
+      navigate("/search/" + search);
+    }
   };
 
   return (

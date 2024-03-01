@@ -68,7 +68,7 @@ function CategoryPage() {
                 {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
                 {items.map((item: any) => (
                   <div
-                    key={item.itemId}
+                    key={item.id}
                     className={
                       item.itemSubcat == subcats.subcatId ? "" : "hidden"
                     }

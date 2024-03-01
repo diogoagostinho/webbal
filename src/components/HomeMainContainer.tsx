@@ -19,7 +19,7 @@ function HomeMainContainer(props: { catId: number; catName: string }) {
           {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
           {items.map((item: any) => (
             <div
-              key={item._id.$oid}
+              key={item.id}
               className={item.itemCat == props.catId ? "" : "hidden"}
             >
               <a target="_blank" href={item.itemLink}>

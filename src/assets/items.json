@@ -1,8 +1,6 @@
 [
   {
-    "_id": {
-      "$oid": "65d48c128da65e3bf2a53ee2"
-    },
+    "id": 1,
     "itemName": "HTML CheatSheet",
     "itemCat": 1,
     "itemSubcat": 1,
@@ -10,9 +8,7 @@
     "itemLink": "https://htmlcheatsheet.com/"
   },
   {
-    "_id": {
-      "$oid": "65d48c858da65e3bf2a53ee3"
-    },
+    "id": 2,
     "itemName": "web code tools",
     "itemCat": 1,
     "itemSubcat": 2,
@@ -20,9 +16,7 @@
     "itemLink": "https://webcode.tools/"
   },
   {
-    "_id": {
-      "$oid": "65d48ccc8da65e3bf2a53ee7"
-    },
+    "id": 3,
     "itemName": "gitignore.io",
     "itemCat": 1,
     "itemSubcat": 2,
@@ -30,9 +24,7 @@
     "itemLink": "https://www.toptal.com/developers/gitignore"
   },
   {
-    "_id": {
-      "$oid": "65d48d008da65e3bf2a53ee8"
-    },
+    "id": 4,
     "itemName": "extract.pics",
     "itemCat": 1,
     "itemSubcat": 4,
@@ -40,9 +32,7 @@
     "itemLink": "https://extract.pics/"
   },
   {
-    "_id": {
-      "$oid": "65d48d188da65e3bf2a53ee9"
-    },
+    "id": 5,
     "itemName": "Real Favicon Generator",
     "itemCat": 1,
     "itemSubcat": 2,
@@ -50,9 +40,7 @@
     "itemLink": "https://realfavicongenerator.net/"
   },
   {
-    "_id": {
-      "$oid": "65d48d338da65e3bf2a53eea"
-    },
+    "id": 6,
     "itemName": "Octopus",
     "itemCat": 1,
     "itemSubcat": 3,
@@ -60,9 +48,7 @@
     "itemLink": "https://octopus.do/"
   },
   {
-    "_id": {
-      "$oid": "65d48d488da65e3bf2a53eeb"
-    },
+    "id": 7,
     "itemName": "dbdiagram",
     "itemCat": 1,
     "itemSubcat": 3,
@@ -70,9 +56,7 @@
     "itemLink": "https://dbdiagram.io/home"
   },
   {
-    "_id": {
-      "$oid": "65d48d578da65e3bf2a53eec"
-    },
+    "id": 8,
     "itemName": "DrawSQL App",
     "itemCat": 1,
     "itemSubcat": 3,
@@ -80,9 +64,7 @@
     "itemLink": "https://drawsql.app/diagrams"
   },
   {
-    "_id": {
-      "$oid": "65d48d648da65e3bf2a53eed"
-    },
+    "id": 9,
     "itemName": "carbon",
     "itemCat": 1,
     "itemSubcat": 4,
@@ -90,9 +72,7 @@
     "itemLink": "https://carbon.now.sh/"
   },
   {
-    "_id": {
-      "$oid": "65d48d778da65e3bf2a53eee"
-    },
+    "id": 10,
     "itemName": "Screen Guru",
     "itemCat": 1,
     "itemSubcat": 4,
@@ -100,9 +80,7 @@
     "itemLink": "https://screen.guru/"
   },
   {
-    "_id": {
-      "$oid": "65d48d848da65e3bf2a53eef"
-    },
+    "id": 11,
     "itemName": "Pretty Snap",
     "itemCat": 1,
     "itemSubcat": 4,
@@ -110,9 +88,7 @@
     "itemLink": "https://prettysnap.app/"
   },
   {
-    "_id": {
-      "$oid": "65d48d8f8da65e3bf2a53ef0"
-    },
+    "id": 12,
     "itemName": "CodeImg",
     "itemCat": 1,
     "itemSubcat": 4,
@@ -120,9 +96,7 @@
     "itemLink": "https://codeimg.io/"
   },
   {
-    "_id": {
-      "$oid": "65d48d9f8da65e3bf2a53ef1"
-    },
+    "id": 13,
     "itemName": "readme.so",
     "itemCat": 1,
     "itemSubcat": 2,
@@ -130,9 +104,7 @@
     "itemLink": "https://readme.so/"
   },
   {
-    "_id": {
-      "$oid": "65d491598da65e3bf2a53ef2"
-    },
+    "id": 14,
     "itemName": "MDN Webdocs",
     "itemCat": 2,
     "itemSubcat": 5,
@@ -140,9 +112,7 @@
     "itemLink": "https://developer.mozilla.org/"
   },
   {
-    "_id": {
-      "$oid": "65d491d18da65e3bf2a53ef3"
-    },
+    "id": 15,
     "itemName": "DEVHINTS",
     "itemCat": 2,
     "itemSubcat": 6,
@@ -150,9 +120,7 @@
     "itemLink": "https://devhints.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4920f8da65e3bf2a53ef4"
-    },
+    "id": 16,
     "itemName": "Git Sheet",
     "itemCat": 2,
     "itemSubcat": 6,
@@ -160,9 +128,7 @@
     "itemLink": "https://education.github.com/git-cheat-sheet-education.pdf"
   },
   {
-    "_id": {
-      "$oid": "65d492348da65e3bf2a53ef5"
-    },
+    "id": 17,
     "itemName": "React Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -170,9 +136,7 @@
     "itemLink": "https://react.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d492768da65e3bf2a53ef6"
-    },
+    "id": 18,
     "itemName": "NextJS Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -180,9 +144,7 @@
     "itemLink": "https://nextjs.org/docs"
   },
   {
-    "_id": {
-      "$oid": "65d492ab8da65e3bf2a53ef7"
-    },
+    "id": 19,
     "itemName": "TypeScript Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -190,9 +152,7 @@
     "itemLink": "https://www.typescriptlang.org/docs/"
   },
   {
-    "_id": {
-      "$oid": "65d492cc8da65e3bf2a53ef8"
-    },
+    "id": 20,
     "itemName": "Tailwind CSS Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -200,9 +160,7 @@
     "itemLink": "https://tailwindcss.com/docs/"
   },
   {
-    "_id": {
-      "$oid": "65d493018da65e3bf2a53ef9"
-    },
+    "id": 21,
     "itemName": "BEM Naming Cheatsheet",
     "itemCat": 2,
     "itemSubcat": 6,
@@ -210,9 +168,7 @@
     "itemLink": "https://bem-cheat-sheet.9elements.com/"
   },
   {
-    "_id": {
-      "$oid": "65d493418da65e3bf2a53efa"
-    },
+    "id": 22,
     "itemName": "CSS Reference",
     "itemCat": 2,
     "itemSubcat": 6,
@@ -220,9 +176,7 @@
     "itemLink": "https://cssreference.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4937c8da65e3bf2a53efb"
-    },
+    "id": 23,
     "itemName": "Vite Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -230,9 +184,7 @@
     "itemLink": "https://vitejs.dev/guide/"
   },
   {
-    "_id": {
-      "$oid": "65d493ab8da65e3bf2a53efc"
-    },
+    "id": 24,
     "itemName": "C# Docs",
     "itemCat": 2,
     "itemSubcat": 7,
@@ -240,9 +192,7 @@
     "itemLink": "https://learn.microsoft.com/en-us/dotnet/csharp/"
   },
   {
-    "_id": {
-      "$oid": "65d493d68da65e3bf2a53efd"
-    },
+    "id": 25,
     "itemName": "DevDocs",
     "itemCat": 2,
     "itemSubcat": 5,
@@ -250,9 +200,7 @@
     "itemLink": "https://devdocs.io/"
   },
   {
-    "_id": {
-      "$oid": "65d495138da65e3bf2a53eff"
-    },
+    "id": 26,
     "itemName": "Google Fonts",
     "itemCat": 3,
     "itemSubcat": 8,
@@ -260,9 +208,7 @@
     "itemLink": "https://fonts.google.com/"
   },
   {
-    "_id": {
-      "$oid": "65d495418da65e3bf2a53f00"
-    },
+    "id": 27,
     "itemName": "Fontsss",
     "itemCat": 3,
     "itemSubcat": 8,
@@ -270,9 +216,7 @@
     "itemLink": "https://fontsss.com/"
   },
   {
-    "_id": {
-      "$oid": "65d495838da65e3bf2a53f01"
-    },
+    "id": 28,
     "itemName": "Fontshare",
     "itemCat": 3,
     "itemSubcat": 8,
@@ -280,9 +224,7 @@
     "itemLink": "https://www.fontshare.com/"
   },
   {
-    "_id": {
-      "$oid": "65d495da8da65e3bf2a53f03"
-    },
+    "id": 29,
     "itemName": "UIVERSE",
     "itemCat": 4,
     "itemSubcat": 9,
@@ -290,9 +232,7 @@
     "itemLink": "https://uiverse.io/"
   },
   {
-    "_id": {
-      "$oid": "65d496258da65e3bf2a53f04"
-    },
+    "id": 30,
     "itemName": "fffuel",
     "itemCat": 4,
     "itemSubcat": 10,
@@ -300,9 +240,7 @@
     "itemLink": "https://fffuel.co/"
   },
   {
-    "_id": {
-      "$oid": "65d4966c8da65e3bf2a53f05"
-    },
+    "id": 31,
     "itemName": "Coolors",
     "itemCat": 4,
     "itemSubcat": 13,
@@ -310,9 +248,7 @@
     "itemLink": "https://coolors.co/"
   },
   {
-    "_id": {
-      "$oid": "65d4969e8da65e3bf2a53f06"
-    },
+    "id": 32,
     "itemName": "BGJar",
     "itemCat": 4,
     "itemSubcat": 10,
@@ -320,9 +256,7 @@
     "itemLink": "https://bgjar.com/"
   },
   {
-    "_id": {
-      "$oid": "65d496d18da65e3bf2a53f07"
-    },
+    "id": 33,
     "itemName": "SVG Shape Generator",
     "itemCat": 4,
     "itemSubcat": 12,
@@ -330,9 +264,7 @@
     "itemLink": "https://www.softr.io/tools/svg-shape-generator"
   },
   {
-    "_id": {
-      "$oid": "65d4970b8da65e3bf2a53f08"
-    },
+    "id": 34,
     "itemName": "PatternPad",
     "itemCat": 4,
     "itemSubcat": 10,
@@ -340,9 +272,7 @@
     "itemLink": "https://patternpad.com/"
   },
   {
-    "_id": {
-      "$oid": "65d497448da65e3bf2a53f09"
-    },
+    "id": 35,
     "itemName": "VISIWIG",
     "itemCat": 4,
     "itemSubcat": 10,
@@ -350,9 +280,7 @@
     "itemLink": "https://www.visiwig.com/patterns/"
   },
   {
-    "_id": {
-      "$oid": "65d4976c8da65e3bf2a53f0a"
-    },
+    "id": 36,
     "itemName": "Get Waves",
     "itemCat": 4,
     "itemSubcat": 12,
@@ -360,9 +288,7 @@
     "itemLink": "https://getwaves.io/"
   },
   {
-    "_id": {
-      "$oid": "65d497b08da65e3bf2a53f0b"
-    },
+    "id": 37,
     "itemName": "Warp SVG",
     "itemCat": 4,
     "itemSubcat": 12,
@@ -370,9 +296,7 @@
     "itemLink": "https://pavellaptev.github.io/warp-svg/"
   },
   {
-    "_id": {
-      "$oid": "65d497d88da65e3bf2a53f0c"
-    },
+    "id": 38,
     "itemName": "The Good Line-Height",
     "itemCat": 1,
     "itemSubcat": 1,
@@ -380,9 +304,7 @@
     "itemLink": "https://www.thegoodlineheight.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4983c8da65e3bf2a53f0d"
-    },
+    "id": 39,
     "itemName": "3D Transform CSS",
     "itemCat": 1,
     "itemSubcat": 2,
@@ -390,9 +312,7 @@
     "itemLink": "https://polypane.app/css-3d-transform-examples/"
   },
   {
-    "_id": {
-      "$oid": "65d498958da65e3bf2a53f0e"
-    },
+    "id": 40,
     "itemName": "LogoFast",
     "itemCat": 4,
     "itemSubcat": 12,
@@ -400,9 +320,7 @@
     "itemLink": "https://shipfa.st/tools/logo-fast"
   },
   {
-    "_id": {
-      "$oid": "65d498c78da65e3bf2a53f0f"
-    },
+    "id": 41,
     "itemName": "SimpleIcons",
     "itemCat": 4,
     "itemSubcat": 11,
@@ -410,9 +328,7 @@
     "itemLink": "https://simpleicons.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4990d8da65e3bf2a53f10"
-    },
+    "id": 42,
     "itemName": "HeroIcons",
     "itemCat": 4,
     "itemSubcat": 11,
@@ -420,9 +336,7 @@
     "itemLink": "https://heroicons.com/"
   },
   {
-    "_id": {
-      "$oid": "65d499448da65e3bf2a53f11"
-    },
+    "id": 43,
     "itemName": "HeroPatterns",
     "itemCat": 4,
     "itemSubcat": 10,
@@ -430,9 +344,7 @@
     "itemLink": "https://heropatterns.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4997c8da65e3bf2a53f12"
-    },
+    "id": 44,
     "itemName": "Vercel",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -440,9 +352,7 @@
     "itemLink": "https://vercel.com/dashboard"
   },
   {
-    "_id": {
-      "$oid": "65d49a118da65e3bf2a53f13"
-    },
+    "id": 45,
     "itemName": "Firebase",
     "itemCat": 7,
     "itemSubcat": 19,
@@ -450,9 +360,7 @@
     "itemLink": "https://console.firebase.google.com/"
   },
   {
-    "_id": {
-      "$oid": "65d49a678da65e3bf2a53f14"
-    },
+    "id": 46,
     "itemName": "Netlify",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -460,9 +368,7 @@
     "itemLink": "https://app.netlify.com/"
   },
   {
-    "_id": {
-      "$oid": "65d49ab08da65e3bf2a53f15"
-    },
+    "id": 47,
     "itemName": "000webhost",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -470,9 +376,7 @@
     "itemLink": "https://panel.000webhost.com/"
   },
   {
-    "_id": {
-      "$oid": "65d49ae58da65e3bf2a53f16"
-    },
+    "id": 48,
     "itemName": "Amazon AWS",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -480,9 +384,7 @@
     "itemLink": "https://aws.amazon.com/"
   },
   {
-    "_id": {
-      "$oid": "65d49b248da65e3bf2a53f17"
-    },
+    "id": 49,
     "itemName": "Render",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -490,9 +392,7 @@
     "itemLink": "https://render.com/"
   },
   {
-    "_id": {
-      "$oid": "65d49b558da65e3bf2a53f18"
-    },
+    "id": 50,
     "itemName": "webapp",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -500,9 +400,7 @@
     "itemLink": "https://webapp.io/"
   },
   {
-    "_id": {
-      "$oid": "65d49b848da65e3bf2a53f19"
-    },
+    "id": 51,
     "itemName": "Tiiny Host",
     "itemCat": 5,
     "itemSubcat": 14,
@@ -510,9 +408,7 @@
     "itemLink": "https://tiiny.host/"
   },
   {
-    "_id": {
-      "$oid": "65d4b0208da65e3bf2a53f1a"
-    },
+    "id": 52,
     "itemName": "CodePen",
     "itemCat": 6,
     "itemSubcat": 15,
@@ -520,9 +416,7 @@
     "itemLink": "https://codepen.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4b0dc8da65e3bf2a53f1b"
-    },
+    "id": 53,
     "itemName": "Markdown Live Preview",
     "itemCat": 6,
     "itemSubcat": 15,
@@ -530,9 +424,7 @@
     "itemLink": "https://markdownlivepreview.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4b11b8da65e3bf2a53f1c"
-    },
+    "id": 54,
     "itemName": "npm",
     "itemCat": 7,
     "itemSubcat": 16,
@@ -540,9 +432,7 @@
     "itemLink": "https://www.npmjs.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4b1758da65e3bf2a53f1d"
-    },
+    "id": 55,
     "itemName": "nvm",
     "itemCat": 7,
     "itemSubcat": 20,
@@ -550,9 +440,7 @@
     "itemLink": "https://github.com/coreybutler/nvm-windows#readme"
   },
   {
-    "_id": {
-      "$oid": "65d4b1df8da65e3bf2a53f1e"
-    },
+    "id": 56,
     "itemName": "Yarn",
     "itemCat": 7,
     "itemSubcat": 16,
@@ -560,9 +448,7 @@
     "itemLink": "https://yarnpkg.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4b5148da65e3bf2a53f1f"
-    },
+    "id": 57,
     "itemName": "Bun",
     "itemCat": 7,
     "itemSubcat": 16,
@@ -570,9 +456,7 @@
     "itemLink": "https://bun.sh/"
   },
   {
-    "_id": {
-      "$oid": "65d4b6668da65e3bf2a53f20"
-    },
+    "id": 58,
     "itemName": "NextJS",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -580,9 +464,7 @@
     "itemLink": "https://nextjs.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4b6b58da65e3bf2a53f21"
-    },
+    "id": 59,
     "itemName": "React",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -590,9 +472,7 @@
     "itemLink": "https://react.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4b70c8da65e3bf2a53f22"
-    },
+    "id": 60,
     "itemName": "Bootstrap",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -600,9 +480,7 @@
     "itemLink": "https://getbootstrap.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4b7b68da65e3bf2a53f24"
-    },
+    "id": 61,
     "itemName": "Remix",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -610,9 +488,7 @@
     "itemLink": "https://remix.run/"
   },
   {
-    "_id": {
-      "$oid": "65d4b9168da65e3bf2a53f25"
-    },
+    "id": 62,
     "itemName": "Gatsby",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -620,9 +496,7 @@
     "itemLink": "https://www.gatsbyjs.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4b9478da65e3bf2a53f26"
-    },
+    "id": 63,
     "itemName": "Astro",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -630,9 +504,7 @@
     "itemLink": "https://astro.build/"
   },
   {
-    "_id": {
-      "$oid": "65d4ba368da65e3bf2a53f27"
-    },
+    "id": 64,
     "itemName": "MochaJS",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -640,9 +512,7 @@
     "itemLink": "https://mochajs.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4ba7d8da65e3bf2a53f28"
-    },
+    "id": 65,
     "itemName": "Meteor",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -650,9 +520,7 @@
     "itemLink": "https://www.meteor.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4bada8da65e3bf2a53f29"
-    },
+    "id": 66,
     "itemName": "ExpressJS",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -660,9 +528,7 @@
     "itemLink": "https://expressjs.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4bc8a8da65e3bf2a53f2b"
-    },
+    "id": 67,
     "itemName": "Supabase",
     "itemCat": 7,
     "itemSubcat": 19,
@@ -670,9 +536,7 @@
     "itemLink": "https://supabase.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4bd248da65e3bf2a53f2c"
-    },
+    "id": 68,
     "itemName": "Expo",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -680,9 +544,7 @@
     "itemLink": "https://expo.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4bdc48da65e3bf2a53f2d"
-    },
+    "id": 69,
     "itemName": "React Native",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -690,9 +552,7 @@
     "itemLink": "https://reactnative.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4bdfd8da65e3bf2a53f2e"
-    },
+    "id": 70,
     "itemName": "Electron",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -700,9 +560,7 @@
     "itemLink": "https://www.electronjs.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4be4b8da65e3bf2a53f2f"
-    },
+    "id": 71,
     "itemName": "Simple Parallax",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -710,9 +568,7 @@
     "itemLink": "https://simpleparallax.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4be7a8da65e3bf2a53f30"
-    },
+    "id": 72,
     "itemName": "Image Compare Viewer",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -720,9 +576,7 @@
     "itemLink": "https://image-compare-viewer.netlify.app/"
   },
   {
-    "_id": {
-      "$oid": "65d4bec28da65e3bf2a53f31"
-    },
+    "id": 73,
     "itemName": "Notyf",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -730,9 +584,7 @@
     "itemLink": "https://carlosroso.com/notyf/"
   },
   {
-    "_id": {
-      "$oid": "65d4bee98da65e3bf2a53f32"
-    },
+    "id": 74,
     "itemName": "React Toastify",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -740,9 +592,7 @@
     "itemLink": "https://fkhadra.github.io/react-toastify/introduction/"
   },
   {
-    "_id": {
-      "$oid": "65d4bf5b8da65e3bf2a53f33"
-    },
+    "id": 75,
     "itemName": "Chakra UI",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -750,9 +600,7 @@
     "itemLink": "https://chakra-ui.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4bf9b8da65e3bf2a53f34"
-    },
+    "id": 76,
     "itemName": "Bideo.js",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -760,9 +608,7 @@
     "itemLink": "https://rishabhp.github.io/bideo.js/"
   },
   {
-    "_id": {
-      "$oid": "65d4bfbb8da65e3bf2a53f35"
-    },
+    "id": 77,
     "itemName": "Three.js",
     "itemCat": 7,
     "itemSubcat": 17,
@@ -770,9 +616,7 @@
     "itemLink": "https://threejs.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c00f8da65e3bf2a53f36"
-    },
+    "id": 78,
     "itemName": "Anime.js",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -780,9 +624,7 @@
     "itemLink": "https://animejs.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c0588da65e3bf2a53f37"
-    },
+    "id": 79,
     "itemName": "jQuery",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -790,9 +632,7 @@
     "itemLink": "https://jquery.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c0938da65e3bf2a53f38"
-    },
+    "id": 80,
     "itemName": "Socket.IO",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -800,9 +640,7 @@
     "itemLink": "https://socket.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4c0f48da65e3bf2a53f39"
-    },
+    "id": 81,
     "itemName": "Tailwind CSS",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -810,9 +648,7 @@
     "itemLink": "https://tailwindcss.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c1548da65e3bf2a53f3a"
-    },
+    "id": 82,
     "itemName": "Sass",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -820,9 +656,7 @@
     "itemLink": "https://sass-lang.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c1938da65e3bf2a53f3b"
-    },
+    "id": 83,
     "itemName": "Stytch",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -830,9 +664,7 @@
     "itemLink": "https://stytch.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c1df8da65e3bf2a53f3c"
-    },
+    "id": 84,
     "itemName": "Auth0",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -840,9 +672,7 @@
     "itemLink": "https://auth0.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c2198da65e3bf2a53f3d"
-    },
+    "id": 85,
     "itemName": "React Awesome Reveal",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -850,9 +680,7 @@
     "itemLink": "https://react-awesome-reveal.morello.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4c2428da65e3bf2a53f3e"
-    },
+    "id": 86,
     "itemName": "react-spring",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -860,9 +688,7 @@
     "itemLink": "https://www.react-spring.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4c27f8da65e3bf2a53f3f"
-    },
+    "id": 87,
     "itemName": "PrimeReact",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -870,9 +696,7 @@
     "itemLink": "https://primereact.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c2c88da65e3bf2a53f40"
-    },
+    "id": 88,
     "itemName": "NextUI",
     "itemCat": 7,
     "itemSubcat": 18,
@@ -880,9 +704,7 @@
     "itemLink": "https://nextui.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c35b8da65e3bf2a53f41"
-    },
+    "id": 89,
     "itemName": "MySQL",
     "itemCat": 7,
     "itemSubcat": 19,
@@ -890,9 +712,7 @@
     "itemLink": "https://www.mysql.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c3ae8da65e3bf2a53f42"
-    },
+    "id": 90,
     "itemName": "PostgreSQL",
     "itemCat": 7,
     "itemSubcat": 19,
@@ -900,9 +720,7 @@
     "itemLink": "https://www.postgresql.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c40c8da65e3bf2a53f43"
-    },
+    "id": 91,
     "itemName": "MongoDB",
     "itemCat": 7,
     "itemSubcat": 19,
@@ -910,14 +728,7 @@
     "itemLink": "https://www.mongodb.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c4af8da65e3bf2a53f45"
-    }
-  },
-  {
-    "_id": {
-      "$oid": "65d4c4e98da65e3bf2a53f46"
-    },
+    "id": 92,
     "itemName": "NodeJS",
     "itemCat": 7,
     "itemSubcat": 20,
@@ -925,9 +736,7 @@
     "itemLink": "https://nodejs.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c5498da65e3bf2a53f47"
-    },
+    "id": 93,
     "itemName": "Deno",
     "itemCat": 7,
     "itemSubcat": 20,
@@ -935,9 +744,7 @@
     "itemLink": "https://deno.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c5c48da65e3bf2a53f48"
-    },
+    "id": 94,
     "itemName": "Docker",
     "itemCat": 7,
     "itemSubcat": 20,
@@ -945,9 +752,7 @@
     "itemLink": "https://hub.docker.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c6458da65e3bf2a53f49"
-    },
+    "id": 95,
     "itemName": "Kubernetes",
     "itemCat": 7,
     "itemSubcat": 20,
@@ -955,9 +760,7 @@
     "itemLink": "https://kubernetes.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4c6ab8da65e3bf2a53f4a"
-    },
+    "id": 96,
     "itemName": "Vite",
     "itemCat": 7,
     "itemSubcat": 21,
@@ -965,9 +768,7 @@
     "itemLink": "https://vitejs.dev/"
   },
   {
-    "_id": {
-      "$oid": "65d4c7958da65e3bf2a53f4c"
-    },
+    "id": 97,
     "itemName": "webpack",
     "itemCat": 7,
     "itemSubcat": 21,
@@ -975,9 +776,7 @@
     "itemLink": "https://webpack.js.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c7a58da65e3bf2a53f4d"
-    },
+    "id": 98,
     "itemName": "Babel",
     "itemCat": 7,
     "itemSubcat": 21,
@@ -985,9 +784,7 @@
     "itemLink": "https://babeljs.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4c7cf8da65e3bf2a53f4e"
-    },
+    "id": 99,
     "itemName": "Cloudinary",
     "itemCat": 7,
     "itemSubcat": 22,
@@ -995,9 +792,7 @@
     "itemLink": "https://cloudinary.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c8358da65e3bf2a53f50"
-    },
+    "id": 100,
     "itemName": "freeCodeCamp",
     "itemCat": 8,
     "itemSubcat": 23,
@@ -1005,9 +800,7 @@
     "itemLink": "https://www.freecodecamp.org/"
   },
   {
-    "_id": {
-      "$oid": "65d4c8678da65e3bf2a53f51"
-    },
+    "id": 101,
     "itemName": "Codecademy",
     "itemCat": 8,
     "itemSubcat": 23,
@@ -1015,9 +808,7 @@
     "itemLink": "https://www.codecademy.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c8ae8da65e3bf2a53f52"
-    },
+    "id": 102,
     "itemName": "Fireship",
     "itemCat": 8,
     "itemSubcat": 23,
@@ -1025,9 +816,7 @@
     "itemLink": "https://fireship.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4c91b8da65e3bf2a53f53"
-    },
+    "id": 103,
     "itemName": "Insomnia",
     "itemCat": 9,
     "itemSubcat": 25,
@@ -1035,9 +824,7 @@
     "itemLink": "https://insomnia.rest/"
   },
   {
-    "_id": {
-      "$oid": "65d4c97e8da65e3bf2a53f54"
-    },
+    "id": 104,
     "itemName": "Postman",
     "itemCat": 9,
     "itemSubcat": 25,
@@ -1045,9 +832,7 @@
     "itemLink": "https://www.postman.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4c9a78da65e3bf2a53f55"
-    },
+    "id": 105,
     "itemName": "MySQL Workbench",
     "itemCat": 9,
     "itemSubcat": 24,
@@ -1055,9 +840,7 @@
     "itemLink": "https://www.mysql.com/products/workbench/"
   },
   {
-    "_id": {
-      "$oid": "65d4c9ed8da65e3bf2a53f56"
-    },
+    "id": 106,
     "itemName": "DBeaver",
     "itemCat": 9,
     "itemSubcat": 24,
@@ -1065,9 +848,7 @@
     "itemLink": "https://dbeaver.io/"
   },
   {
-    "_id": {
-      "$oid": "65d4ca178da65e3bf2a53f57"
-    },
+    "id": 107,
     "itemName": "MongoDB Compass",
     "itemCat": 9,
     "itemSubcat": 24,
@@ -1075,9 +856,7 @@
     "itemLink": "https://www.mongodb.com/products/tools/compass"
   },
   {
-    "_id": {
-      "$oid": "65d4ca3d8da65e3bf2a53f58"
-    },
+    "id": 108,
     "itemName": "Tabby",
     "itemCat": 9,
     "itemSubcat": 26,
@@ -1085,9 +864,7 @@
     "itemLink": "https://tabby.sh/"
   },
   {
-    "_id": {
-      "$oid": "65d4ca848da65e3bf2a53f59"
-    },
+    "id": 109,
     "itemName": "Hyper",
     "itemCat": 9,
     "itemSubcat": 26,
@@ -1095,9 +872,7 @@
     "itemLink": "https://hyper.is/"
   },
   {
-    "_id": {
-      "$oid": "65d4cad88da65e3bf2a53f5b"
-    },
+    "id": 110,
     "itemName": "Figma",
     "itemCat": 9,
     "itemSubcat": 27,
@@ -1105,9 +880,7 @@
     "itemLink": "https://www.figma.com/"
   },
   {
-    "_id": {
-      "$oid": "65d4cb0d8da65e3bf2a53f5c"
-    },
+    "id": 111,
     "itemName": "Fontbase",
     "itemCat": 9,
     "itemSubcat": 27,

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useLocation } from "react-router-dom";
 import items from "../assets/items.json";
+import Footer from "../components/Footer";
 
 function Search() {
   useEffect(() => {
@@ -9,6 +10,7 @@ function Search() {
 
   const location = useLocation();
   const search = location.pathname.split("/")[2].toString();
+  const normalizedSearch = search.toLowerCase();
 
   return (
     <>
@@ -23,12 +25,26 @@ function Search() {
         </div>
 
         {/* eslint-disable-next-line @typescript-eslint/no-explicit-any*/}
-        {items.map((item: any) => (
-          <p key={item.itemId} className={item.itemName ? "" : "hidden"}>
-            {item.itemName}
-          </p>
-        ))}
+        {items.map((item: any) => {
+          const normalizedItem = item.itemName.toLowerCase();
+
+          if (normalizedItem.includes(normalizedSearch)) {
+            return (
+              <div key={item.id} className="py-2">
+                <a target="_blank" href={item.itemLink}>
+                  <p className="text-sm font-semibold text-neutral-900 hover:text-emerald-500 dark:text-neutral-200 dark:hover:text-blue-500">
+                    {item.itemName}
+                  </p>
+                </a>
+                <p className="text-xs font-display font-normal text-neutral-500">
+                  {item.itemDesc}
+                </p>
+              </div>
+            );
+          }
+        })}
       </div>
+      <Footer />
     </>
   );
 }
